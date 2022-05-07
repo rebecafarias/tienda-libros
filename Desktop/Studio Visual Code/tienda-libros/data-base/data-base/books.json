@@ -1,0 +1,29 @@
+[
+ {
+  "id": 1,
+  "title": "Cien años de soledad",
+  "author": "Gabriel García Márquez",
+  "genre": "Novelas",
+  "year": "1985",
+  "cost": "130",
+  "price": "340"
+ },
+ {
+  "id": 2,
+  "title": "El señor de los anillos",
+  "author": "J.J.R. Tolkien",
+  "genre": "Fantasías",
+  "year": "1952",
+  "cost": "45",
+  "price": "180"
+ },
+ {
+  "id": 3,
+  "title": "El Quijote de la Mancha",
+  "author": "Miguel Cervantes",
+  "genre": "Aventuras",
+  "year": "1654",
+  "cost": "90",
+  "price": "230"
+ }
+]
